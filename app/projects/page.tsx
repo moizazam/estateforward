@@ -1,0 +1,1 @@
+import {InfoPage} from '@/components/InfoPages';export default function Page(){return <InfoPage slug="projects"/>}
